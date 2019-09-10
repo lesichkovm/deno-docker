@@ -1,4 +1,6 @@
-# deno-docker
+# Deno in Docker Container
+
+Example Deno web server running in a docker container
 
 1. Build image
 ```
