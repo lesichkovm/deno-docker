@@ -1,4 +1,4 @@
-# Deno in Docker Container
+# Deno in a Docker Container
 
 Example Deno web server running in a docker container
 
@@ -13,6 +13,7 @@ docker run -d -p 32452:80 --name deno deno
 ```
 
 3 View:
+
 localhost:32452
 
 4. Inspect
